@@ -12,7 +12,9 @@ The focus of this project is analyzing performance trends and patterns within th
 - The scores by school spending per student, by school size, and by school type
 
 ## District Results
-- district summary affected
+### District Summary and Comparsion
+
+![district_summary_compare](resources/district_summary_compare.png)
 - school summary affected
 - how replacing scores affect Thomas High School performance
 - how replacing...math and reading scores by grade
