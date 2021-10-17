@@ -2,18 +2,14 @@
 # School District Analysis
 
 ## Project Overview
-This project completed an audit of recent local congressional election tasked by the Colorado Board of Elections. The areas of focus for the audit include the following:
+The focus of this project is analyzing performance trends and patterns within the school district in order assist the school board in making decisions regarding school budget and priorities. This analysis also includes the changes of math and reading scores for Thomas High School and compares current analysis with previous analsis. This analysis provides updates to:
 
-1. Calculating the total number of votes cast
-2. Calculating the the number of votes and percentage of the total votes votes each county in the precinct received.
-3. Determing the county with the largest number of votes
-4. Getting a complete list of candidates who received votes
-5. Calculating the number of votes and the perecentage of the total votes for each candidate received total number of votes each candidate received
-6. Determining the winning candidate of election based on popular vote
-
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- The district summary
+- The school summary
+- The top 5 and bottom 5 performing schools, based on the overall passing rate
+- The average math score for each grade level from each school
+- The average reading score for each grade level from each school
+- The scores by school spending per student, by school size, and by school type
 
 ## District Results
 - district summary affected
