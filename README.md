@@ -1,8 +1,8 @@
-![election_banner](resources/election_banner.png)
+![Pyschool_banner](resources/Pyschool_banner.png)
 # School District Analysis
 
 ## Project Overview
-The focus of this project is analyzing performance trends and patterns within the school district in order assist the school board in making decisions regarding school budget and priorities. This analysis also includes the changes of math and reading scores for Thomas High School and compares current analysis with previous analsis. This analysis provides updates to:
+The focus of this project is analyzing performance trends and patterns within the school district in order to assist the school board in making decisions regarding school budget and priorities. This analysis also includes the changes of math and reading scores for Thomas High School and compares current analysis with previous analsis. This analysis provides updates to:
 
 - The district summary
 - The school summary
