@@ -12,21 +12,39 @@ The focus of this project is analyzing performance trends and patterns within th
 - The scores by school spending per student, by school size, and by school type
 
 ## District Results
-### District Summary and Comparsion
+### District Summary
 - There was a slight decrease in the percentage of students passing Math, passing reading, and overall passing comparing the original to updated summaries. The results depicted in below tables. 
 
 The table on the left is pertains to the original summary. The table on the right is the updated summary with the data changes.
-
 ![district_summary_compare](resources/district_summary_compare.png)
-### School Summary and Comparison
--There was about the same the percentage of students passing Math, passing reading, and overall passing at Thomas High School when comparing the original to updated summaries. Additionally, the averages also math and reading scores remained about the same. The results depicted in below tables. 
 
-The table on the left is pertains to the original summary. The table on the right is the updated summary with the data changes.
+### School Summary
+- There was about the same the percentage of students passing Math, passing reading, and overall passing at Thomas High School when comparing the original to updated summaries. Additionally, the averages also math and reading scores remained about the same. 
+See updated analysis table below.
+![per_school_summary_df](resources/per_school_summary_df.png)
 
-- how replacing scores affect Thomas High School performance
+### Top and Bottom Performing Schools
+#### Top 5 Performing Schools
+![top5](resources/top5.png)
+
+#### Bottom 5 Performing Schools
+![bottom5](resources/bottom5.png)
+
 - how replacing...math and reading scores by grade
-- "" scores by school spending
-- "" scores by school size
-- "" scores by school type
+### Average Math and Reading Scores
+#### Average Math Scores
+![average_math](resources/average_math.png)
+#### Average Reading Scores
+![average_reading](resources/average_reading.png)
+
+### Scores by School Spending
+![spending_summary](resources/spending_summary.png)
+
+### Scores by School Size
+![size_summary](resources/size_summary.png)
+
+### Scores by School Type
+![type_summary](resources/type_summary.png)
+
 ## Summary of Changes
   - four changes
