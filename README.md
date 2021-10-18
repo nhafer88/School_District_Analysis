@@ -26,12 +26,12 @@ See updated analysis table below.
 ### Top and Bottom Performing Schools
 #### Top 5 Performing Schools
 ![top5](resources/top5.png)
-
+- Thomas High School remains in the top 5 and 2nd highest place in performing schools.
 #### Bottom 5 Performing Schools
 ![bottom5](resources/bottom5.png)
 
-- how replacing...math and reading scores by grade
 ### Average Math and Reading Scores
+- For Thomas High School "in" represents no score, seen in Math and reading scores.
 #### Average Math Scores
 ![average_math](resources/average_math.png)
 #### Average Reading Scores
@@ -47,4 +47,4 @@ See updated analysis table below.
 ![type_summary](resources/type_summary.png)
 
 ## Summary of Changes
-  - four changes
+  - There were minimal changes to the school district analysis. Changes that were noticed was slight decrease in Thomas High School students overall passing percentage in math and reading. 
