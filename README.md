@@ -53,4 +53,4 @@ Bottom 5 Performing Schools
 ![type_summary](resources/type_summary.png)
 
 ## Summary of Changes
-  - There were minimal changes to the school district analysis with taking out 9th grade math and reading scores at Thomas High school. Changes that were noticed were slight decrease in Thomas High School students overall passing percentage in math and reading. No significant changes were seen. Having not included 9th grade scores, Thomas High School remains a top performing school. 
+  - There were minimal changes to the school district analysis having to disregard 9th grade math and reading scores at Thomas High school. Changes that were noticed were slight decrease in Thomas High School students overall passing percentage in math and reading. No significant changes were seen. Having not included 9th grade scores, Thomas High School remains a top performing school. 
